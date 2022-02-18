@@ -1,0 +1,5 @@
+# Code Constants
+RELU = 'RELU'
+TANH = 'TANH'
+SWISH = 'SWISH'
+SIGMOID = 'SIGMOID'
